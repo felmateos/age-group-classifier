@@ -4,6 +4,11 @@ seaborn
 matplotlib
 wordcloud
 transformers
+torch
+gensim
+optuna
+pickle
+transformers
 tensorflow
 torch
 gensim
