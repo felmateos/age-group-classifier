@@ -13,4 +13,5 @@ tensorflow
 torch
 gensim
 optuna
-pickle
+shap
+pickle5
