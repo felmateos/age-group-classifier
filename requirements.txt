@@ -3,3 +3,9 @@ numpy
 seaborn
 matplotlib
 wordcloud
+transformers
+tensorflow
+torch
+gensim
+optuna
+pickle
