@@ -7,11 +7,11 @@ transformers
 torch
 gensim
 optuna
-pickle
 transformers
 tensorflow
 torch
 gensim
 optuna
 shap
+blosc
 pickle5
