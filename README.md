@@ -31,7 +31,8 @@
 <h3 align="center">Exercício Programa de PLN</h3>
 
   <p align="center">
-    👶👧👦 Desvendando padrões na escrita das pessoas, descobrindo a faixa etária da pessoa apenas pelo seu texto 👨👩👴
+    👶👧👦 Desvendando padrões na escrita das pessoas, <br />
+    descobrindo a faixa etária da pessoa apenas pelo seu texto 👨👩👴
     <br />
     <br />
     <a href="https://github.com/felmateos/age-group-classifier/issues">Report Bug</a>
