@@ -52,8 +52,7 @@ Este repositório contém um classificador de texto desenvolvido para identifica
 Para obter uma cópia local deste repositório, utilize o seguinte comando:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/felmateos/age-group-classifier.git
 ```
 
 ## Instalação
