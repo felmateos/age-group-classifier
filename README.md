@@ -31,7 +31,7 @@
 <h3 align="center">Exercício Programa de PLN</h3>
 
   <p align="center">
-    Classificação de faixa etária a partir de requisições na plataforma eSIC.
+    👶👧👦 Desvendando padrões na escrita das pessoas, descobrindo a faixa etária da pessoa apenas pelo seu texto 👨👩👴
     <br />
     <br />
     <a href="https://github.com/felmateos/age-group-classifier/issues">Report Bug</a>
@@ -77,6 +77,10 @@ O desempenho do modelo é avaliado por meio das seguintes métricas:
 A matriz de confusão oferece uma visão detalhada do desempenho do modelo. A imagem abaixo representa a matriz de confusão gerada durante a avaliação do classificador:
 
 ![Matriz de Confusão](images/confusion_matrix.png)
+
+## Documentos importantes
+
+Na pasta 'docs' estão tanto o relatório, quanto a apresentação do projeto, onde constam informações que podem ser úteis para compreender o que foi feito.
 
 ## Contribuição
 
