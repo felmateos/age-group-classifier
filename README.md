@@ -19,7 +19,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -89,3 +94,16 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, rela
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
+
+[contributors-shield]: https://img.shields.io/github/contributors/felmateos/age-group-classifier.svg?style=for-the-badge
+[contributors-url]: https://github.com/felmateos/age-group-classifier/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/felmateos/age-group-classifier.svg?style=for-the-badge
+[forks-url]: https://github.com/felmateos/age-group-classifier/network/members
+[stars-shield]: https://img.shields.io/github/stars/felmateos/age-group-classifier.svg?style=for-the-badge
+[stars-url]: https://github.com/felmateos/age-group-classifier/stargazers
+[issues-shield]: https://img.shields.io/github/issues/felmateos/age-group-classifier.svg?style=for-the-badge
+[issues-url]: https://github.com/felmateos/age-group-classifier/issues
+[license-shield]: https://img.shields.io/github/license/felmateos/age-group-classifier.svg?style=for-the-badge
+[license-url]: https://github.com/felmateos/age-group-classifier/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=259
+[linkedin-url]: https://linkedin.com/in/felmateos
