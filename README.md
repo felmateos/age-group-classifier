@@ -60,6 +60,8 @@ Para obter uma cópia local deste repositório, utilize o seguinte comando:
 git clone https://github.com/felmateos/age-group-classifier.git
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Instalação
 
 Antes de começar, certifique-se de ter o ambiente Python configurado. Utilize o seguinte comando para instalar as dependências necessárias:
@@ -67,6 +69,8 @@ Antes de começar, certifique-se de ter o ambiente Python configurado. Utilize o
 ```
 pip install -r requirements.txt
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Métricas
 
@@ -76,6 +80,8 @@ O desempenho do modelo é avaliado por meio das seguintes métricas:
   - ### 52.31%
 - **Acurácia Média em 10 Folds (Cross Validation):** A acurácia média obtida através de um processo de validação cruzada com 10 folds.
   - ### 51.28%
+ 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Matriz de Confusão
 
@@ -83,17 +89,26 @@ A matriz de confusão oferece uma visão detalhada do desempenho do modelo. A im
 
 ![Matriz de Confusão](images/confusion_matrix.png)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Documentos importantes
 
 Na pasta 'docs' estão tanto o relatório, quanto a apresentação do projeto, onde constam informações que podem ser úteis para compreender o que foi feito.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou abrir pull requests.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/felmateos/age-group-classifier.svg?style=for-the-badge
 [contributors-url]: https://github.com/felmateos/age-group-classifier/graphs/contributors
