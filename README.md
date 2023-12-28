@@ -50,7 +50,7 @@
 
 ---
 
-Este repositório contém um classificador de texto desenvolvido para identificar a faixa etária associada a determinados textos. O modelo foi treinado utilizando técnicas de processamento de linguagem natural (NLP) e machine learning, com o objetivo de prever a faixa etária de acordo com o conteúdo textual fornecido.
+Este repositório contém um classificador de texto desenvolvido para identificar a faixa etária associada a determinados textos. O modelo foi treinado utilizando técnicas de processamento de linguagem natural (PLN) e machine learning, com o objetivo de prever a faixa etária de acordo com o conteúdo textual fornecido.
 
 ## Git Clone
 
