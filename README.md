@@ -19,7 +19,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -31,7 +36,8 @@
 <h3 align="center">Exercício Programa de PLN</h3>
 
   <p align="center">
-    👶👧👦 Desvendando padrões na escrita das pessoas, descobrindo a faixa etária da pessoa apenas pelo seu texto 👨👩👴
+    👶👧👦 Desvendando padrões na escrita das pessoas, <br />
+    descobrindo a faixa etária da pessoa apenas pelo seu texto 👨👩👴
     <br />
     <br />
     <a href="https://github.com/felmateos/age-group-classifier/issues">Report Bug</a>
@@ -44,16 +50,17 @@
 
 ---
 
-Este repositório contém um classificador de texto desenvolvido para identificar a faixa etária associada a determinados textos. O modelo foi treinado utilizando técnicas de processamento de linguagem natural (NLP) e machine learning, com o objetivo de prever a faixa etária de acordo com o conteúdo textual fornecido.
+Este repositório contém um classificador de texto desenvolvido para identificar a faixa etária associada a determinados textos. O modelo foi treinado utilizando técnicas de processamento de linguagem natural (PLN) e machine learning, com o objetivo de prever a faixa etária de acordo com o conteúdo textual fornecido.
 
 ## Git Clone
 
 Para obter uma cópia local deste repositório, utilize o seguinte comando:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/felmateos/age-group-classifier.git
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Instalação
 
@@ -63,6 +70,8 @@ Antes de começar, certifique-se de ter o ambiente Python configurado. Utilize o
 pip install -r requirements.txt
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Métricas
 
 O desempenho do modelo é avaliado por meio das seguintes métricas:
@@ -71,6 +80,8 @@ O desempenho do modelo é avaliado por meio das seguintes métricas:
   - ### 52.31%
 - **Acurácia Média em 10 Folds (Cross Validation):** A acurácia média obtida através de um processo de validação cruzada com 10 folds.
   - ### 51.28%
+ 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Matriz de Confusão
 
@@ -78,14 +89,36 @@ A matriz de confusão oferece uma visão detalhada do desempenho do modelo. A im
 
 ![Matriz de Confusão](images/confusion_matrix.png)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Documentos importantes
 
 Na pasta 'docs' estão tanto o relatório, quanto a apresentação do projeto, onde constam informações que podem ser úteis para compreender o que foi feito.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou abrir pull requests.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/felmateos/age-group-classifier.svg?style=for-the-badge
+[contributors-url]: https://github.com/felmateos/age-group-classifier/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/felmateos/age-group-classifier.svg?style=for-the-badge
+[forks-url]: https://github.com/felmateos/age-group-classifier/network/members
+[stars-shield]: https://img.shields.io/github/stars/felmateos/age-group-classifier.svg?style=for-the-badge
+[stars-url]: https://github.com/felmateos/age-group-classifier/stargazers
+[issues-shield]: https://img.shields.io/github/issues/felmateos/age-group-classifier.svg?style=for-the-badge
+[issues-url]: https://github.com/felmateos/age-group-classifier/issues
+[license-shield]: https://img.shields.io/github/license/felmateos/age-group-classifier.svg?style=for-the-badge
+[license-url]: https://github.com/felmateos/age-group-classifier/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=259
+[linkedin-url]: https://linkedin.com/in/felmateos
